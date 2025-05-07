@@ -1,0 +1,31 @@
+# Core
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+alembic
+python-dotenv
+
+# ML & Data
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+
+# Testing & Linting
+pytest
+httpx
+pytest-cov
+black
+flake8
+locust
+
+# Dashboard & Docs
+streamlit
+mkdocs
+mkdocs-material
+
+# Dev & Tools
+jupyter

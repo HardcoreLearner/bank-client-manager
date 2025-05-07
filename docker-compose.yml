@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  app:
+    image: ghcr.io/<ton-utilisateur-github>/bank-client-manager:latest
+    ports:
+      - "8000:8000"
+    restart: always

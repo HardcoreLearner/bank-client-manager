@@ -1,0 +1,9 @@
+site_name: Documentation du Projet
+
+nav:
+  - Home: index.md
+  - Documentation:
+      - Fonctions: documentation_fonctions.md
+
+theme:
+  name: 'material'  # Utilise un thème, ici le thème Material
